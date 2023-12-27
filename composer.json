@@ -1,0 +1,9 @@
+{
+    "name": "user/my-new.loc",
+    "autoload": {
+        "psr-4": {
+            "services\\": "services/"
+        }
+    },
+    "require": {}
+}
